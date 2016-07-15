@@ -9,10 +9,11 @@ tracker                 # Meteor's client-side reactive programming library
 standard-minifier-css   # CSS minifier run for production mode
 standard-minifier-js    # JS minifier run for production mode
 es5-shim                # ECMAScript 5 compatibility for older browsers.
+ecmascript
 
-webpack:webpack
-webpack:react
-webpack:css
-webpack:assets
+#webpack:webpack
+#webpack:react
+#webpack:css
+#webpack:assets
 
 lw:tmp

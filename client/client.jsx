@@ -79,6 +79,7 @@ SimpleMapPage.defaultProps = {
 /************************************             LocalContainer            *******************************************/
 /**************************************** *****************************************************************************/
 
+//import { React as R2, render } from 'meteor/lw:tmp'
 import * as R2 from 'react';
 import {render} from 'react-dom';
 

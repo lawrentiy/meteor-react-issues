@@ -1,8 +1,8 @@
 {
   "name": "tmp",
   "private": true,
-  "main": "server.js",
-  "browser": "client.jsx",
+  "main": "server/server.js",
+  "browser": "client/client.jsx",
   "scripts": {
     "start": "meteor run"
   },
