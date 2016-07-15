@@ -83,6 +83,8 @@ SimpleMapPage.defaultProps = {
 import * as R2 from 'react';
 import {render} from 'react-dom';
 
+import React from 'react'; // See it! It has to have React object in the scope
+
 class LocalContainer extends R2.Component {
     render() {
         return (
