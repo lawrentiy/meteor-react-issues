@@ -29,3 +29,8 @@ https://github.com/lawrentiy/meteor-react-issues/commit/0d654ef4cb751c9e4be3a0b0
 
 
 That two cases have eaten 3 days of my life. And can eat more, because Case 1 will I have to rewrite my project structure.
+
+Related links:
+http://stackoverflow.com/questions/36910579/using-multiple-packages-in-meteor-1-3-that-include-the-same-npm-package
+https://github.com/meteor/meteor/issues/7290
+https://guide.meteor.com/writing-atmosphere-packages.html#peer-npm-dependencies
